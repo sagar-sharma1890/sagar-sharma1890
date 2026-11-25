@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Sagar Sharma 👋
 
-<!--
-**sagar-sharma1890/sagar-sharma1890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year AI & Data Science student  
+💻 Aspiring Software Developer | AI/ML Enthusiast
 
-Here are some ideas to get you started:
+### 🚀 Currently Working On
+- Strengthening C++ and Data Structures & Algorithms
+- Learning Python and Backend Development
+- Building projects and improving problem-solving skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools & Technologies
+- **Languages:** Python, C, C++
+- **Tools:** Git, GitHub, VS Code
+
+### 🎯 Goals
+- Build real-world projects
+- Participate in hackathons
+- Explore AI/ML and Backend Development
+- Get internship opportunities
+
+### 📫 Connect With Me
+- GitHub: [@sagar-sharma1890](https://github.com/sagar-sharma1890)
+- email: sagarsharma.az.1890@gmail.com
+
+---
+
+*Learn. Build. Improve. Repeat. 🚀*
